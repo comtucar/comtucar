@@ -4,7 +4,7 @@
   "description": "Contucar new web page",
   "main": "index.js",
   "homepage": "https://jegj.github.io/comtucar/",
-  "repository": "https://github.com/jegj/comtucar.git",
+  "repository": "https://github.com/comtucar/comtucar.git",
   "author": "Javier <jegj57@gmail.com>",
   "license": "MIT",
   "scripts": {
